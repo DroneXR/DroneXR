@@ -21,6 +21,13 @@ What are the dream goal directions of this project for now :
   - You can find some STL to print if you want to start this eSport
 
  
+ 
+## Downloadable
+
+[Drone: Root of knowledge](https://github.com/EloiStree/2023_01_27_GlobalGameJameDroneDoc/releases/tag/V1)
+[Drone: Remote Drone XR for Root of knwledge](https://github.com/DroneXR/2023_01_27_RemoteDroneXR/releases/tag/V0)
+[Drone Soccer XR Solo Passthrough](https://github.com/DroneXR/DroneSoccerXR/releases/tag/V0)
+
 
 
 
