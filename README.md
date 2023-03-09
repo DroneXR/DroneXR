@@ -50,7 +50,7 @@ Contact us:
 - Project Developer: https://www.linkedin.com/in/eloistree/
 
 Support the project:
-- Tipeee https://en.tipeee.com/dronesoccerxr/
+- Tipeee https://en.tipeee.com/eloistree/
 - Twitch https://www.twitch.tv/dronesoccerxr
 - Download the game: https://dronesoccerxr.itch.io
 
