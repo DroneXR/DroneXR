@@ -1,4 +1,6 @@
-![Project Banner](https://github.com/DroneSoccerXR/Logo/blob/main/Twitch/Banner/DroneSoccerXR_TwitchBanner.png?raw=true)
+
+![DroneXRGroundText](https://user-images.githubusercontent.com/114882444/224182435-6e1f85a0-29b2-43d7-8a5a-0f888925b410.png)
+
 ## Are you at the right place 🤔 ?
 
 What are the dream goal directions of this project for now :
@@ -75,18 +77,18 @@ Video: https://www.youtube.com/watch?v=gh-I9qe4-0c
 
 ## Game on Quest about Drone
 
-Learn to fly a drone in FPV in simulation and learn with a workshop tutorial
-Yue's VR FPV Sim: https://www.oculus.com/experiences/quest/4592643074113403/
+Learn to fly a drone in FPV in simulation and learn with a workshop tutorial  
+Yue's VR FPV Sim: https://www.oculus.com/experiences/quest/4592643074113403/  
 ![image](https://user-images.githubusercontent.com/114882444/224173847-4ecd7ea7-95ac-47a0-ab7a-46989d9b0af1.png)
 
 
-Learn to fly a stable drone from ingame table in a simple world. Perfect for beginner.
-Drone Simulator: https://sidequestvr.com/app/7362/dronesimulatorvr
+Learn to fly a stable drone from ingame table in a simple world. Perfect for beginner.   
+Drone Simulator: https://sidequestvr.com/app/7362/dronesimulatorvr   
 ![image](https://user-images.githubusercontent.com/114882444/224173894-84deb5c5-f8b0-4c78-b63f-e6c7f5d02f84.png)
 
 
-First introduction to what is a drone soccer arena.
-Drone Soccer Solo Protop: https://github.com/DroneXR/DroneSoccerXR/releases/tag/V0
+First introduction to what is a drone soccer arena.  
+Drone Soccer Solo Protop: https://github.com/DroneXR/DroneSoccerXR/releases/tag/V0   
 ![image](https://user-images.githubusercontent.com/114882444/224174130-f83120a9-24fd-443c-b566-271d39b77bbc.png)
 
 
