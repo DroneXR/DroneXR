@@ -34,7 +34,7 @@ What are the dream goal directions of this project for now :
 
 [Drone Soccer XR Solo Passthrough](https://github.com/DroneXR/DroneSoccerXR/releases/tag/V0)  
 - APK : https://github.com/DroneXR/DroneSoccerXR/releases/tag/V0
-- Sidequest: https://sidequestvr.com/app/14659/drone-soccer-xr-solo-prototype
+- Sidequest: https://sidequestvr.com/app/14659/drone-soccer-xr-solo-prototype (soon In validation)
 
 
 
